@@ -9,7 +9,7 @@ There are numerous anti-patterns in software security;
 - [Blacklisting] (blacklisting.md)
 - [Loosening blacklists] (looseningblacklists.md)
 - [Widening whitelists without precautions] (wideningwhitelistswithoutprecautions.md)
-- Insufficient www knowledge
+- [Insufficient WWW knowledge] (insufficientwwwknowledge.md)
 - Secure library ignorance
 - Mixing code and data
 - Confirmation bias
