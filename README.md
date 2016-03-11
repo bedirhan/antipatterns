@@ -3,8 +3,8 @@ An anti-pattern is a common response to a recurring problem that is usually inef
 
 There are numerous anti-patterns in software security;
 
-- Pardon the malintent
-- Copy-Paste insecure code
+- [Pardon the malintent](pardonthemalintent.md)
+- [Copy-Paste insecure code] (copypasteinsecurecode.md)
 - Incomplete mediation
 - Blacklisting
 - Loosening blacklists
