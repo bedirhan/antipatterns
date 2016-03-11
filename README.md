@@ -17,3 +17,7 @@ There are numerous anti-patterns in software security;
 # References
 
 [1] https://en.wikipedia.org/wiki/Anti-pattern
+
+# Contact
+
+Bedirhan Urgun / bedirhan{dot}urgun at gmail
