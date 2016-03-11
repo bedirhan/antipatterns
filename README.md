@@ -8,7 +8,7 @@ There are numerous anti-patterns in software security;
 - [Incomplete mediation] (incompletemediation.md)
 - [Blacklisting] (blacklisting.md)
 - [Loosening blacklists] (looseningblacklists.md)
-- Widening whitelists
+- [Widening whitelists without precautions] (wideningwhitelistswithoutprecautions.md)
 - Insufficient www knowledge
 - Secure library ignorance
 - Mixing code and data
