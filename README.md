@@ -5,7 +5,7 @@ There are numerous anti-patterns in software security;
 
 - [Pardon the malintent](pardonthemalintent.md)
 - [Copy-Paste insecure code] (copypasteinsecurecode.md)
-- Incomplete mediation
+- [Incomplete mediation] (incompletemediation.md)
 - Blacklisting
 - Loosening blacklists
 - Widening whitelists
