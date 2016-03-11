@@ -11,8 +11,8 @@ There are numerous anti-patterns in software security;
 - [Widening whitelists without precautions] (wideningwhitelistswithoutprecautions.md)
 - [Insufficient WWW knowledge] (insufficientwwwknowledge.md)
 - [Secure library ignorance] (securelibraryignorance.md)
-- Mixing code and data
-- Confirmation bias
+- [Mixing code and data] (mixingcodeanddata.md)
+- [Confirmation bias] (confirmationbias.md)
 
 # References
 
