@@ -7,7 +7,7 @@ There are numerous anti-patterns in software security;
 - [Copy-Paste insecure code] (copypasteinsecurecode.md)
 - [Incomplete mediation] (incompletemediation.md)
 - [Blacklisting] (blacklisting.md)
-- Loosening blacklists
+- [Loosening blacklists] (looseningblacklists.md)
 - Widening whitelists
 - Insufficient www knowledge
 - Secure library ignorance
