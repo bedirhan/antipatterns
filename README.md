@@ -4,15 +4,15 @@ An anti-pattern is a common response to a recurring problem that is usually inef
 There are numerous anti-patterns in software security;
 
 - [Pardon the malintent](pardonthemalintent.md)
-- [Copy-Paste insecure code] (copypasteinsecurecode.md)
-- [Incomplete mediation] (incompletemediation.md)
-- [Blacklisting] (blacklisting.md)
-- [Loosening blacklists] (looseningblacklists.md)
-- [Widening whitelists without precautions] (wideningwhitelistswithoutprecautions.md)
-- [Insufficient WWW knowledge] (insufficientwwwknowledge.md)
-- [Secure library ignorance] (securelibraryignorance.md)
-- [Mixing code and data] (mixingcodeanddata.md)
-- [Confirmation bias] (confirmationbias.md)
+- [Copy-Paste insecure code](copypasteinsecurecode.md)
+- [Incomplete mediation](incompletemediation.md)
+- [Blacklisting](blacklisting.md)
+- [Loosening blacklists](looseningblacklists.md)
+- [Widening whitelists without precautions](wideningwhitelistswithoutprecautions.md)
+- [Insufficient WWW knowledge](insufficientwwwknowledge.md)
+- [Secure library ignorance](securelibraryignorance.md)
+- [Mixing code and data](mixingcodeanddata.md)
+- [Confirmation bias](confirmationbias.md)
 
 # References
 
